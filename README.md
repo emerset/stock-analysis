@@ -9,9 +9,11 @@ The purpose of this analysis is to compare whether a refactored script that effi
 The refactored script did not provide any significantly faster runtime than the older script.
 
 Run time for original script: 0.26 seconds
+
 ![Run time for original script: 0.26 seconds](/Resources/VBA_Challenge_2018_2.png)
 
 Run time for refactored script: 0.25 seconds
+
 ![Run time for refactored script: 0.25 seconds](/Resources/VBA_Challenge_2018.png)
 
 ## 3. Summary
