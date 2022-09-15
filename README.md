@@ -12,13 +12,13 @@ Run time for original script: 0.26 seconds
 
 ![Run time for original script: 0.26 seconds](/Resources/VBA_Challenge_2018_2.png)
 
-Run time for refactored script: 0.25 seconds
+Run time for refactored script: 0.08 seconds
 
-![Run time for refactored script: 0.25 seconds](/Resources/VBA_Challenge_2018.png)
+![Run time for refactored script: 0.08 seconds](/Resources/VBA_Challenge_2018_edited.png)
 
 ## 3. Summary
 
-The advantages of refactoring a code is to provide a cleaner and more organized script. Creating more efficient and faster code also future proofs code in case the data grows exponentially.
+The advantages of refactoring a code is to provide a cleaner and more organized script. By running the loop only once, the time to run the script has been reduced to be less than one third of the original time. Creating more efficient and faster code also future proofs code in case the data grows exponentially.
 
 The disadvantages are the time it takes to fix code that was running correctly already.
 
